@@ -9,14 +9,19 @@ Objective: Perform ETL process completely in the cloud and upload a Data Frame t
 Used Amazon reviews for us Toys.
 Tables in PgAdmin
 #### customers_table
+![image](https://user-images.githubusercontent.com/100485119/174522408-cd968301-0a00-465a-aa30-e36b01ccbf81.png)
+
  
 #### products_table1
  
+![image](https://user-images.githubusercontent.com/100485119/174522418-3b51833b-f79f-442e-be5e-4bc5a73eed60.png)
 
 #### review_id_table
- 
+ ![image](https://user-images.githubusercontent.com/100485119/174522427-23864caf-3052-44b3-aaff-fe7de41df494.png)
+
 #### Vine Table
  
+![image](https://user-images.githubusercontent.com/100485119/174522440-3a49e1c4-de2b-454a-8f61-08ed8e6d1263.png)
 
 ## Results:
 #### Vine Review
