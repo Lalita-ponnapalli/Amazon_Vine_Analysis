@@ -26,12 +26,23 @@ Tables in PgAdmin
 ## Results:
 #### Vine Review
 
-vine reviews 1203
-Non Vine reviews 58018
-vine review with 5 star are 410
-Non Vine reviews with 5 star are 28043
-Non vine review with 5 star percentage 98.56
-Vine review with 5 star percentage 1.44
+#### vine reviews 1203
+![image](https://user-images.githubusercontent.com/100485119/174522660-4d115d07-0f4b-49b4-b5b5-614c630f6104.png)
+
+#### Non Vine reviews 58018
+![image](https://user-images.githubusercontent.com/100485119/174522735-8eb55928-bb3f-48ae-b0e4-75cf4961655e.png)
+
+#### vine review with 5 star are 410
+![image](https://user-images.githubusercontent.com/100485119/174522794-74f29e8c-f863-4c3f-af6b-43b635e57aca.png)
+
+#### Non Vine reviews with 5 star are 28043
+![image](https://user-images.githubusercontent.com/100485119/174522805-019f9f9f-d847-43cd-b2de-46b3515cf18d.png)
+
+#### Non vine review with 5 star percentage 98.56
+![image](https://user-images.githubusercontent.com/100485119/174522839-90c467cb-9f98-4958-adb7-377510ff4f22.png)
+
+#### Vine review with 5 star percentage 1.44
+
 ### Summary
 
 As per research we get to know that Non vine review is higher the vine review. This information also tells us that it is not the best-selling item. For this case, I think the Vine Program is trustworthy. 
